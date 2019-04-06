@@ -1,8 +1,7 @@
 // ************ PLAYER DEFINITIONS *****************    
 //
-// TEAM C: Jordan, Yufei, David, Shannon, Asher
+// Jordan, Yufei, David, Shannon, Asher
 // Frupal 
-// CS300
 // Jan 28, 2018
 #include"player.h"
 
