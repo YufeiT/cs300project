@@ -1,7 +1,7 @@
 // ************ SHOP DEFINITIONS *****************    
 //
 // Jordan, Yufei, David, Shannon, Asher
-// Frupal 
+// Frupal  
 // Jan 28, 2018
 #include"player.h"
 
