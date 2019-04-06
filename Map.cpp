@@ -1,8 +1,7 @@
 // ************ MAP DEFINITIONS *****************    
 //
-// TEAM C: Jordan, Yufei, David, Shannon, Asher
-// Frupal 
-// CS300
+// Jordan, Yufei, David, Shannon, Asher
+// Frupal
 // Jan 28, 2018
 
 #include "Map.h"
